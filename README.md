@@ -72,3 +72,10 @@ Celebrate [Hacktoberfest 2025](https://hacktoberfest.com/) by getting involved i
 * Keep your contributions simple and creative.
 * Explore others’ pull requests to learn how open-source collaboration works.
 * Don’t hesitate to experiment — that’s how you learn!
+
+
+---
+
+## Thought of the Day
+
+"The best time to plant a tree was 20 years ago. The second best time is now." - Chinese Proverb
